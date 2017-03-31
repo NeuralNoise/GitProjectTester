@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Feautre2 : MonoBehaviour {
+public class Feature2 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
